@@ -5,8 +5,8 @@ from tkinter import scrolledtext
 from pydub import AudioSegment
 import pdfkit
 import tempfile
-import openai
 import speech_recognition as sr
+import openai
 import time
 import random
 import re
